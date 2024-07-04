@@ -27,9 +27,9 @@ You need to prepare:
 
 - Virtualbox
 
-- Linux Ubuntu version 18.04
+- Linux Ubuntu version 22.04 LTS
 
-- High Spec computer or server, so can handle three VMs with each of it having a minimum 16Gb RAM & memory with 70 Gb.
+- High Spec computer or server, so can handle three VMs with each of it having a minimum 8Gb RAM & memory with 70 Gb.
 
   
 
@@ -46,7 +46,3 @@ You can download the document or open the readme.md of each folder to read the f
 		- Open5gs & UERANSIM Installation
 		- Configuration for 5G SA
 		- 5G SA Simulation
-- 5G NSA 
-		- srsRAN Installation
-		- Configuration for 5G NSA
-		- 5G NSA Simulation
